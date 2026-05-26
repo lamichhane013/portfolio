@@ -182,6 +182,6 @@ export const NAV_LINKS = ["Home","About","Skills","Projects","Experience","Educa
 export const CONTACT_LINKS = [
   { label: "Email",    value: "bibeklamichhane013@gmail.com",          href: "mailto:bibeklamichhane013@gmail.com",    color: "#00ff88" },
   { label: "LinkedIn", value: "linkedin.com/in/bibeklamichhane013",    href: "https://linkedin.com/in/bibeklamichhane013", color: "#00d4ff" },
-  { label: "GitHub",   value: "github.com/bibeklamichhane",            href: "https://github.com",                      color: "#7c3aed" },
+  { label: "GitHub",   value: "github.com/lamichhane013",            href: "https://github.com/lamichhane013",                      color: "#7c3aed" },
   { label: "Location", value: "Bankstown, NSW 2200, Australia",        href: null,                                       color: "#f59e0b" },
 ];
