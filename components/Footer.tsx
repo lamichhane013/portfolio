@@ -13,7 +13,7 @@ export default function Footer() {
         </div>
         <div className="flex gap-4">
           <a
-            href="https://github.com"
+            href="https://github.com/lamichane013"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-[#00ff88] transition-colors"
