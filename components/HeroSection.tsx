@@ -66,7 +66,7 @@ export default function HeroSection() {
             className="flex flex-wrap gap-3"
           >
             <a
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/1qo35FGFnP69NMGwbQ0SHmMk5l4ABrf7G/view?usp=sharing"
               download
               className="flex items-center gap-2 px-5 py-2.5 bg-[#00ff88] text-black font-bold text-sm font-mono rounded hover:bg-[#00ff88]/90 transition-all shadow-[0_0_20px_rgba(0,255,136,0.3)]"
             >
@@ -79,7 +79,7 @@ export default function HeroSection() {
               Projects
             </button>
             <a
-              href="https://github.com"
+              href="https://github.com/lamichhane013"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2.5 border border-gray-700 text-gray-400 hover:text-white hover:border-gray-500 font-mono text-sm rounded transition-all"
